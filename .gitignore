@@ -1,0 +1,22 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+.vs/
+*.userprefs
+*.user
+*.suo
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Packages
+packages/
+.nuget/
